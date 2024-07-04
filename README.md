@@ -1,6 +1,6 @@
 <div align="center">
   
-    ![](https://count.getloli.com/get/@NurFy?theme=rule34)
+  ![](https://count.getloli.com/get/@NurFy?theme=asoul)
     
 </div>
 
