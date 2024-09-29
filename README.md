@@ -1,13 +1,8 @@
 <div align="center">
   
-  ![](https://count.getloli.com/get/@NurFy?theme=asoul)
-    
-</div>
-
-___
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  ![](https://badges.pufler.dev/visits/NurFy/NurFy)
+  
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-Node.js-gray?style=flat&logo=Node.js" />
 </div>
