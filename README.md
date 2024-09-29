@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![](https://badges.pufler.dev/visits/NurFy/NurFy)
+  ![](https://komarev.com/ghpvc/?username=NurFy&label=Visits&color=lightgrey)
   
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-gray?style=flat&logo=typescript" />
